@@ -13,7 +13,7 @@
 	<property name="packages.dir" value="${basedir}/checkout" />
 	<property name="tmp.wildfly.home" value="${output.dir}/tmp" />
 
-	<property name="wildfly.version" value="10.1.0.Final" />
+	<property name="wildfly.version" value="23.0.0.Final" />
 	<property name="wildfly.distro.zip.path" value="wildfly-${wildfly.version}.zip" />
 	<property name="wildfly.home.relative.path" value="wildfly-${wildfly.version}/" />
 	<property name="wildfly.home" value="${release.dir}/${wildfly.home.relative.path}/" />
