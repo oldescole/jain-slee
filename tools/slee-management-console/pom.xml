@@ -19,7 +19,7 @@
 		<pluginRepository>
 			<id>gwt-maven-plugins</id>
 			<!--<url>http://gwt-maven.googlecode.com/svn/trunk/mavenrepo/</url>-->
-			<url>http://forum.soapui.org/repository/maven2/</url>
+			<url>https://svn.sp.vodafone.com/archiva/repository/internal/</url>
 		</pluginRepository>
 		<pluginRepository>
 			<id>jboss-developer-repository-plugins</id>
@@ -47,7 +47,7 @@
 		<repository>
 			<id>gwt-maven</id>
 			<!--<url>http://gwt-maven.googlecode.com/svn/trunk/mavenrepo/</url>-->
-			<url>http://forum.soapui.org/repository/maven2/</url>
+			<url>https://svn.sp.vodafone.com/archiva/repository/internal/</url>
 		</repository>
 	</repositories>
 
