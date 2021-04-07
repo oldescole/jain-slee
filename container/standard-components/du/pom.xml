@@ -44,6 +44,9 @@
 							<goal>copy-dependencies</goal>
 							<goal>generate-descriptor</goal>
 						</goals>
+						<configuration>
+							<excludes>META-INF</excludes>
+						</configuration>	
 					</execution>
 				</executions>				
 			</plugin>
